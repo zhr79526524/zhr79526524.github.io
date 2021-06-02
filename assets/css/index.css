@@ -338,4 +338,9 @@ mark {
     }
 }
 
+#from{
+    width: 90%;
+    margin: 0 auto;
+    text-align: right;
+}
 /*# sourceMappingURL=index.css.map */
