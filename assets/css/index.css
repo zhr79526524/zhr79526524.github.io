@@ -103,7 +103,9 @@ body .info-unit h3 {
         background: lightgreen;
     }
 }
-
+.work h3{
+    margin-bottom: 0.3rem;
+}
 .container .side .me .portrait .loading span:nth-child(2) {
     -webkit-animation-delay: 0.2s;
 }
